@@ -1,4 +1,4 @@
-# haxe-visualhaxe
+# visualhaxe
 
 Visual novel engine for HaxeFlixel based on [HagglerVNE](https://github.com/gummywormz/HagglerVNE)
 
