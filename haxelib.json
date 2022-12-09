@@ -1,0 +1,11 @@
+{
+  "name": "Haxe-VisualNovel",
+  "url" : "https://github.com/Zero0xx/haxe-visualnovel",
+  "license": "BSD",
+  "tags": ["game", "openfl", "flash", "html5", "neko", "cpp", "android", "ios", "cross"],
+  "description": "Visual novel engine for HaxeFlixel.",
+  "version": "1.0.0",
+  "releasenote": "Added support for FlxTextFormats. Added dialogue options.",
+  "contributors": ["Zero0xx, gummywormz"],
+  "dependencies": { "flixel": "" }
+}
