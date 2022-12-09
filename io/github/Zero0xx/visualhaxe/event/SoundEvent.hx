@@ -1,4 +1,4 @@
-package io.github.Zero0xx.haxe-visualnovel.event;
+package io.github.Zero0xx.visualhaxe.event;
 
 import flixel.FlxG;
 

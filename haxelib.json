@@ -1,6 +1,6 @@
 {
-  "name": "Haxe-VisualNovel",
-  "url" : "https://github.com/Zero0xx/haxe-visualnovel",
+  "name": "visualhaxe",
+  "url" : "https://github.com/Zero0xx/visualhaxe",
   "license": "BSD",
   "tags": ["game", "openfl", "flash", "html5", "neko", "cpp", "android", "ios", "cross"],
   "description": "Visual novel engine for HaxeFlixel.",

@@ -1,4 +1,4 @@
-package io.github.Zero0xx.haxe-visualnovel.options ;
+package io.github.Zero0xx.visualhaxe.options ;
 import flixel.FlxSprite;
 
 

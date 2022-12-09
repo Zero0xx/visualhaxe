@@ -1,6 +1,6 @@
-package io.github.Zero0xx.haxe-visualnovel.event;
+package io.github.Zero0xx.visualhaxe.event;
 
-import io.github.Zero0xx.haxe-visualnovel.util.Choices;
+import io.github.Zero0xx.visualhaxe.util.Choices;
 
 /**
  * An event that displays choices

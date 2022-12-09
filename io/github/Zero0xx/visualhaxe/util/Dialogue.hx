@@ -1,13 +1,13 @@
 
-package io.github.Zero0xx.haxe-visualnovel.util ;
+package io.github.Zero0xx.visualhaxe.util ;
 
 import flixel.FlxSprite;
 import flixel.FlxState;
 import flixel.text.FlxText;
-import io.github.Zero0xx.haxe-visualnovel.options.DialogueOption;
+import io.github.Zero0xx.visualhaxe.options.DialogueOption;
 
-import io.github.Zero0xx.haxe-visualnovel.options.TextFormatOption;
-import io.github.Zero0xx.haxe-visualnovel.options.GlobalOptions;
+import io.github.Zero0xx.visualhaxe.options.TextFormatOption;
+import io.github.Zero0xx.visualhaxe.options.GlobalOptions;
 
 /**
  * Character dialogue boxes
