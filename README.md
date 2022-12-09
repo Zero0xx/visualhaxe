@@ -6,4 +6,4 @@ This is the engine that powers DDLC Haxe (Coming soon).
 
 How to use:
 
-Run: haxelib git https://github.com/Zero0xx/haxe-visualnovel
+Run: haxelib git haxe-visualnovel https://github.com/Zero0xx/haxe-visualnovel
