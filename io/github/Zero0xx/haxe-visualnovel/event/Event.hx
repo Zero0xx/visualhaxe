@@ -1,4 +1,4 @@
-package io.github.gummywormz.haxe-visualnovel.event;
+package io.github.Zero0xx.haxe-visualnovel.event;
 
 /**
  * Base class for an event

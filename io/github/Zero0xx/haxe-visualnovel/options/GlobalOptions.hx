@@ -1,4 +1,4 @@
-package io.github.gummywormz.haxe-visualnovel.options ;
+package io.github.Zero0xx.haxe-visualnovel.options ;
 
 /**
    This class holds global options used by default by the game engine

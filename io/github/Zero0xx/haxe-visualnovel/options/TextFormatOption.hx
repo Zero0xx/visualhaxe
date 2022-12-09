@@ -1,4 +1,4 @@
-package io.github.gummywormz.haxe-visualnovel.options ;
+package io.github.Zero0xx.haxe-visualnovel.options ;
 import flixel.text.FlxText.FlxTextAlign;
 import flixel.text.FlxText.FlxTextBorderStyle;
 import flixel.util.FlxColor;

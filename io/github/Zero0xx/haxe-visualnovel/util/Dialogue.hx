@@ -1,13 +1,13 @@
 
-package io.github.gummywormz.haxe-visualnovel.util ;
+package io.github.Zero0xx.haxe-visualnovel.util ;
 
 import flixel.FlxSprite;
 import flixel.FlxState;
 import flixel.text.FlxText;
-import io.github.gummywormz.haxe-visualnovel.options.DialogueOption;
+import io.github.Zero0xx.haxe-visualnovel.options.DialogueOption;
 
-import io.github.gummywormz.haxe-visualnovel.options.TextFormatOption;
-import io.github.gummywormz.haxe-visualnovel.options.GlobalOptions;
+import io.github.Zero0xx.haxe-visualnovel.options.TextFormatOption;
+import io.github.Zero0xx.haxe-visualnovel.options.GlobalOptions;
 
 /**
  * Character dialogue boxes

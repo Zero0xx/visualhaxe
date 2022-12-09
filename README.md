@@ -1,4 +1,5 @@
-# HagglerVNE
-Visual novel engine for HaxeFlixel
+# haxe-visualnovel
 
-This is the engine that powers "The Haggler". See the demo project for info on how to use the engine.
+Visual novel engine for HaxeFlixel based on [HagglerVNE](https://github.com/gummywormz/HagglerVNE)
+
+This is the engine that powers DDLC Haxe (Coming soon).

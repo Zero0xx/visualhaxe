@@ -1,10 +1,10 @@
-package io.github.gummywormz.haxe-visualnovel.util;
+package io.github.Zero0xx.haxe-visualnovel.util;
 import flixel.FlxState;
 
 import flixel.FlxG;
 import flixel.ui.FlxButton;
 
-using io.github.gummywormz.haxe-visualnovel.util.Misc;
+using io.github.Zero0xx.haxe-visualnovel.util.Misc;
 
 /**
  * Represents a collection of buttons that the user can pick from

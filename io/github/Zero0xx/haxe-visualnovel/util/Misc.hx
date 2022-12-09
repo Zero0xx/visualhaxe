@@ -1,5 +1,5 @@
-package io.github.gummywormz.haxe-visualnovel.util;
-//import io.github.gummywormz.haxe-visualnovel.demo.Misc;
+package io.github.Zero0xx.haxe-visualnovel.util;
+//import io.github.Zero0xx.haxe-visualnovel.demo.Misc;
 
 /**
  * Miscellanious Static methods

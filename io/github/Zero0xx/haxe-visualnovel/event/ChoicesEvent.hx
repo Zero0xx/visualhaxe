@@ -1,6 +1,6 @@
-package io.github.gummywormz.haxe-visualnovel.event;
+package io.github.Zero0xx.haxe-visualnovel.event;
 
-import io.github.gummywormz.haxe-visualnovel.util.Choices;
+import io.github.Zero0xx.haxe-visualnovel.util.Choices;
 
 /**
  * An event that displays choices

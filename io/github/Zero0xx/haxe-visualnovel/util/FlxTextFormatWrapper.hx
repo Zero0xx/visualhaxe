@@ -1,4 +1,4 @@
-package io.github.gummywormz.haxe-visualnovel.util ;
+package io.github.Zero0xx.haxe-visualnovel.util ;
 
 import flixel.text.FlxText;
 /**
